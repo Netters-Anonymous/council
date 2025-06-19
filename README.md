@@ -1,26 +1,45 @@
 # Council server archive
 
-
-Best finish all time
-
-
-
-BEST TNW FINISH
+These stats are through 2 round. Will update as I get scores.
 
 
 
-BEST AVG NW FINISH
-
-
-
-BEST MEMBERSHIP FINISH
-
-
-
-
-test table:
-| Header 1 | Header 2 | Header 3 |
+BEST FINISH | Country
+| Name | Networth | Clan |
 |---|:---|---:|
 | Data 1 | Data 2 | Data 3 |
 | More Data 1 | More Data 2 | More Data 3 |
+| Data 1 | Data 2 | Data 3 |
+| More Data 1 | More Data 2 | More Data 3 |
+
+
+
+BEST TNW FINISH | CLAN
+| Clan | Networth | Round |
+|---|:---|---:|
+| Data 1 | Data 2 | Data 3 |
+| More Data 1 | More Data 2 | More Data 3 |
+| Data 1 | Data 2 | Data 3 |
+| More Data 1 | More Data 2 | More Data 3 |
+
+
+
+BEST AVG NW FINISH | CLAN
+| Clan | Networth | Round |
+|---|:---|---:|
+| Data 1 | Data 2 | Data 3 |
+| More Data 1 | More Data 2 | More Data 3 |
+| Data 1 | Data 2 | Data 3 |
+| More Data 1 | More Data 2 | More Data 3 |
+
+
+
+BEST MEMBERSHIP FINISH | CLAN
+| Clan | Members | Round |
+|---|:---|---:|
+| Data 1 | Data 2 | Data 3 |
+| More Data 1 | More Data 2 | More Data 3 |
+| Data 1 | Data 2 | Data 3 |
+| More Data 1 | More Data 2 | More Data 3 |
+
 
