@@ -1,6 +1,6 @@
 # Council server archive
 
-These stats are through 4 rounds. This will update as I get scores.
+These stats are through 5 rounds. This will update as I get scores.
 
 BEST FINISH | Country
 | Name | Networth | Clan |
@@ -31,6 +31,6 @@ BEST MEMBERSHIP FINISH | CLAN
 |---|:---|---:|
 | xNAx | 148 | 3 |
 | PDM | 144 | 2 |
+| LaF | 132 | 5 |
 | SoF | 128 | 3 |
 | SoL | 127 | 3 |
-| xNAx | 121 | 1 |
