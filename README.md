@@ -31,6 +31,6 @@ BEST MEMBERSHIP FINISH | CLAN
 |---|:---|---:|
 | xNAx | 148 | 3 |
 | PDM | 144 | 2 |
-| LaF | 132 | 5 |
+| LaF | 132 | 6 |
 | SoF | 128 | 3 |
 | SoL | 127 | 3 |
