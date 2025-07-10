@@ -1,6 +1,6 @@
 # Council server archive
 
-These stats are through 13 rounds. This will update as I get scores.
+These stats are through 14 rounds. This will update as I get scores.
 
 BEST FINISH | Country
 | Name | Networth | Clan |
